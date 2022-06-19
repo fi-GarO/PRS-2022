@@ -1,0 +1,34 @@
+20 stěnná kostka - házíme 100x
+
+počet na kostce 		10	5	2	1	1	1	
+číslo				 1	2	3	4	10	0
+prs				0,5	0,25	0,1	0,05	0,0,5 0,05	
+
+
+
+1 2 3 4 5 6
+
+11 12 13 14 15 16 -6
+21 22 23 24 25 26 -5
+31 32 33 34 35 36 -4
+			-3
+			-2
+			-1
+		36 - 21 = 15
+			15/36 = 41,6
+			
+
+
+10	5	2	1	1	1
+1	2	3	4	10	0
+
+
+
+
+př 5
+a) 
+prs, že pojede žena = 0,34
+prs, že pojede elektrokolo = 0,54545454
+
+prs, když pojede elektrokolo, bude na něm sedět žena = 0,623333
+
